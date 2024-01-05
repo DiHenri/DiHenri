@@ -1,18 +1,74 @@
-# 💫 About Me:
-Sou Desenvolvedor jr atualmente estudando java 
+### Hey 👋, I'm Diego
+
+[![Github](https://img.shields.io/github/followers/zyphyxx?label=Follow&style=social)](https://github.com/DiHenri)
+
+## 👋 Hello, World!
+
+Welcome to my coding playground! 🚀 I'm on a journey of continuous learning and exploration in the vast world of technology. Aspiring developer, avid problem-solver, and forever curious about the next coding adventure.
+
+### 🌱 What's Here?
+
+- **Projects:** From coding exercises to hands-on applications, dive into my diverse coding projects.
+- **Languages:** Fluent in the language of coding and always adding new dialects to my repertoire.
+- **Collaboration:** Open to collaboration and excited to connect with fellow enthusiasts.
+
+### 💻 Let's Code Together!
+
+Join me in the quest to create something amazing. Explore, learn, and code on!
+
+<!-- GRS (Light Mode) -->
+<div align="center"> 
+  <a href="https://github.com/DiHenri#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=zyphyxx&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+      alt="My Github stats"
+      height="370"
+    />
+  </a>
+  <a href="https://github.com/DiHenri#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=DiHenri&layout=pie&hide_border=true&langs_count=10#gh-light-mode-only"
+      alt="My Language stats"
+      height="370"
+    />
+  </a>
+</div>
+
+<!-- GRS (Dark Mode) -->
+<div align="center"> 
+  <a href="https://github.com/DiHenri#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=zyphyxx&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      alt="My Github stats"
+      height="370"
+    />
+  </a>
+  <a href="https://github.com/DiHenri#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zyphyxx&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      alt="My Language stats"
+      height="370"
+    />
+  </a>
+</div>
+
+<!-- Streal stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/DiHenri#gh-light-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=zyphyxx&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dihenri.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dih_enri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= DiHenri&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user= DiHenri&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= DiHenri&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id= DiHenri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Streal stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/DiHenrix#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=zyphyxx&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
