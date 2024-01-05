@@ -56,7 +56,7 @@ Join me in the quest to create something amazing. Explore, learn, and code on!
 <div align="center">
   <a href="https://github.com/DiHenri#gh-light-mode-only">
     <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=zyphyxx&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=DiHenri&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
      />
   </a>
